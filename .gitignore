@@ -1,4 +1,44 @@
+# Virtual environments
 /.mlvenv
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Tests and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+
+# Mypy
+.mypy_cache/
+
+# Environment variables
+.env
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pyre
+.pyre/
+
+# Misc
 /runs
 /yolo26n.pt
 /yolov8s-seg.pt
+
