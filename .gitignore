@@ -1,0 +1,4 @@
+/.mlvenv
+/runs
+/yolo26n.pt
+/yolov8s-seg.pt
