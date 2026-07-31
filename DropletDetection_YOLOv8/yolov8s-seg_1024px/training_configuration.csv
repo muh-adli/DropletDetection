@@ -1,0 +1,14 @@
+Parameter,Value
+Model,yolov8s-seg.pt
+Image Size,1024
+Batch Size,4
+Epochs,150
+Optimizer,AdamW
+Learning Rate,0.0005
+Weight Decay,0.0005
+Mosaic,0.2
+Close Mosaic,20
+Confidence,0.25
+IOU,0.5
+Retina Masks,True
+Date,2026-07-24 22:05:43.624598
